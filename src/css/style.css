@@ -1,0 +1,27 @@
+body {
+    color: #000000;
+  }
+  
+ h1 {
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: #c0c0c0;
+  } 
+  
+  .films-list {
+    margin: auto;
+  }
+  
+  td {
+    padding: 5px;
+    border: 1px solid #c0c0c0;
+  }
+  
+  .sorting-up:after {
+    content: '\2191';
+  }
+  
+  .sorting-down:after {
+    content: '\2193';
+  }
