@@ -23,5 +23,5 @@ body {
   }
   
   .sorting-down:after {
-    content: ' ↓';
+    content: '\2193';
   }
